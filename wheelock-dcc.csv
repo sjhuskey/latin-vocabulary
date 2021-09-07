@@ -1,0 +1,772 @@
+Latin Word,Definition,Wheelock Chapter,Part of Speech,Semantic Group,Frequency Rank
+"sum, esse, fui, futurum ","to be, exist",4,Verb: Irregular,Life and Being,2
+"qui, quae, quod ","(relative pronoun) who, which, what, that",17,Pronoun,Pronouns/Interrogatives,3
+"hic, haec, hoc ","this; the latter; (at times) he, she, it",9,Pronoun,Pronouns/Interrogatives,7
+"ille, illa, illud ","that; the former; the famous; (at times) he, she, it",9,Pronoun,Pronouns/Interrogatives,8
+"tu, tui ",you,11,Pronoun,Pronouns/Interrogatives,9
+"ego, mei ",I,11,Pronoun,Pronouns/Interrogatives,11
+"is, ea, id ","he, she, it",11,Pronoun,Pronouns/Interrogatives,13
+ad (+acc) ,"to(ward), up to, near",8,Preposition,Place,14
+"omnis, omne ","every, all",16,Adjective: 3rd Declension,Measurement,18
+nec,"and not, nor (neque/nec . . . neque/nec ",11,Conjunction,Conjunctions/Adverbs,19
+a/ab (+abl) ,"away from, from; by",14,Preposition,Place,21
+"ipse, ipsa, ipsum ","(intensive pronoun) myself, yourself, him/her/itself, etc; the very, the actual",13,Pronoun,Pronouns/Interrogatives,22
+"possum, posse, potui ","to be able, can, could, have power",6,Verb: Irregular,Making/Doing,23
+"magnus, magna, magnum ","great, large; important",2,Adjective: 1st and 2nd Declension,Measurement,25
+"suus, sua, suum ","his own, her own, its own, their own",13,Adjective: 1st and 2nd Declension,Pronouns/Interrogatives,27
+"do, dare, dedi, datum ","to give, offer",1,Verb: 1st Conjugation,Social Life,28
+"video, vidēre, vidi, visum ","to see; observe, understand",1,Verb: 2nd Conjugation,Vision,31
+"facio, facere, feci, factum ","to make, do, accomplish",10,Verb: 3rd Conjugation -iō,Making/Doing,32
+"dico, dicere, dixi, dictum ","to say; tell, speak; name, call",10,Verb: 3rd Conjugation -ō,Speech/Oratory,33
+atque/ac ,"and, and also, and even",21,Conjunction,Conjunctions/Adverbs,35
+ac,"and, and also, and even",21,Conjunction,Conjunctions/Adverbs,36
+"alius, alia, aliud ","other, another",9,Adjective: 1st and 2nd Declension,Pronouns/Interrogatives,37
+"res, rei (f) ","thing, matter,  business, affair",22,Noun: 5th Declension,Life and Being,38
+"habeo, habēre, habui, habitum ","to have, hold, possess; consider, regard",3,Verb: 2nd Conjugation,Other Senses,39
+"animus, animi (m) ","soul, spirit, mind; heart, mind, intellect, courage",5,Noun: 2nd Declension,Life and Being,40
+"meus, mea, meum ",my,2,Pronoun,Pronouns/Interrogatives,41
+"deus, dei (m) ",god,6,Noun: 2nd Declension,Religion,42
+"multus, multa, multum ",many,2,Adjective: 1st and 2nd Declension,Measurement,43
+"tuus, tua, tuum ",your (singular),2,Adjective: 1st and 2nd Declension,Pronouns/Interrogatives,44
+"fero, ferre, tuli, latum ","to bear, bring; suffer, endure, tolerate, say, report",31,Verb: Irregular,Verbs of Transport,45
+ne,,5,Conjunction,Conjunctions/Adverbs,47
+"manus, manus (f) ",hand; handwriting; band,20,Noun: 4th Declension,The Body,48
+"nullus, nulla, nullum ","not any; no, none",9,Adjective: 1st and 2nd Declension,Pronouns/Interrogatives,49
+"noster, nostra, nostrum ",our,5,Pronoun,Pronouns/Interrogatives,52
+"unus, una, unum ","one, single, alone",9,Adjective: 1st and 2nd Declension,Measurement,53
+"dies, diei (m) ",day,22,Noun: 5th Declension,Lengths of Time,54
+"idem, eadem, idem ",the same,11,Pronoun,Pronouns/Interrogatives,59
+"rex, regis (m) ",king,7,Noun: 3rd Declension,The City,60
+"locus, loci (m) ",place; passage in literature,9,Noun: 2nd Declension,Geography,62
+"venio, venire, veni, ventum ",to come,10,Verb: 4th Conjugation,Motion,63
+"pars, partis (f)* ","part, share; direction",14,Noun: 3rd Declension,Measurement,65
+"volo, velle, volui ","to wish, want, be willing, will",32,Verb: Irregular,Emotions,66
+"bonus, bona, bonum ","good, kind",4,Adjective: 1st and 2nd Declension,Personality Traits/Characteristics,68
+"ago, agere, egi, actum ","to drive, lead, do, act; pass, spend",8,Verb: 3rd Conjugation -ō,Verbs of Compelling/Directing,69
+"terra, terrae (f) ","land, earth, ground, country",7,Noun: 1st Declension,Earth and Water,70
+"pater, patris (m) ",father,12,Noun: 3rd Declension,The Household,71
+neque/nec ,"and not, nor (neque/nec . . . neque/nec ",11,Conjunction,Conjunctions/Adverbs,72
+"domus, domus (-i) (f) ","home, house",37,Noun: 4th Declension,The House,73
+"corpus, corporis (n) ",body,7,Noun: 3rd Declension,The Body,75
+"aliquis, aliquid ","someone, somebody, something",23,Pronoun,Pronouns/Interrogatives,77
+"totus, tota, totum ","whole, entire",9,Adjective: 1st and 2nd Declension,Measurement,78
+"hic, haec, hoc ","this; the latter; (at times) he, she, it",9,Adverb,Place,80
+"iste, ista, istud ","that of yours, that; (sometimes pejorative: that despicable, that wretched)",9,Pronoun,Pronouns/Interrogatives,81
+"urbs, urbis (f)* ",city,14,Noun: 3rd Declension,The City,82
+"peto, petere, petivi, petitum ","to seek, aim at, beseech",23,Verb: 3rd Conjugation -ō,Motion,83
+"iubeo, iubēre, iussi, iussum ","to order, bid, command",21,Verb: 2nd Conjugation,Justice,84
+"vir, viri (m) ","man, hero, husband",3,Noun: 2nd Declension,People,85
+"bellum, belli (n) ",war,4,Noun: 2nd Declension,War and Peace,86
+"vita, vitae (f) ",life; mode of life,2,Noun: 1st Declension,Life and Being,87
+"homo, hominis (m) ","human being, man",7,Noun: 3rd Declension,People,88
+"tempus, temporis (n) ","time; occasion, opportunity",7,Noun: 3rd Declension,Time,89
+"primus, prima, primum ","first, foremost, chief, principal",27,Adjective: 1st and 2nd Declension,Time,91
+"hostis, hostis (m)* ",an enemy (of the state); (plural = the enemy),18,Noun: 3rd Declension,War and Peace,93
+"mors, mortis (f)* ",death,14,Noun: 3rd Declension,Life and Being,95
+"eo, ire, ii, itum ","to go (also: abeo, adeo, exeo, ineo, obeo, pereo, redeo)",37,Verb: Irregular,Motion,97
+"arma, armorum (n) ","arms, weapons",28,Noun: 2nd Declension,War and Peace,98
+"superus, supera, superum ","above, upper",27,Adjective: 1st and 2nd Declension,Religion,99
+"vinco, vincere, vici, victum ","to conquer, overcome",8,Verb: 3rd Conjugation -ō,War and Peace,101
+"pono, ponere, posui, positum ","to put, place, set",27,Verb: 3rd Conjugation -ō,Verbs of Transport,102
+"tantus, tanta, tantum ","so large, so great, of such a size",29,Adjective: 1st and 2nd Declension,Measurement,105
+"teneo, tenere, tenui, tentum ","to hold, keep, possess; restrain",14,Verb: 2nd Conjugation,Other Senses,106
+"causa, causae (f) ","cause,  reason; case, situation. (in ablative + preceding genitive: for the sake of)",21,Noun: 1st Declension,Speech/Oratory,107
+"sequor, sequi, secutus sum ",to follow,34,Verb: Deponent,Motion,108
+"credo, credere, credidi, creditum ","to believe, trust",25,Verb: 3rd Conjugation -ō,Education/Knowledge,109
+"accipio, accipere, accepi, acceptum ","to take (to one’s self), receive, accept",24,Verb: 3rd Conjugation -iō,Social Life,110
+"virtus, virtutis (f) ","manliness, courage; excellence, character, worth, virtue",7,Noun: 3rd Declension,Personality Traits/Characteristics,111
+"quaero, quaerere, quaesivi, quaesitum ","to seek, look for, strive for; ask, inquire, inquire into",24,Verb: 3rd Conjugation -ō,Education/Knowledge,113
+"mitto, mittere, misi, missum ","to send, let go",11,Verb: 3rd Conjugation -ō,Verbs of Compelling/Directing,114
+"vis, vis (f) ","force, power, violence (plural = strength)",14,Noun: 3rd Declension,War and Peace,115
+"amor, amoris (m) ",love,7,Noun: 3rd Declension,Love,116
+"caelum, caeli (n) ",sky,5,Noun: 2nd Declension,Air and Fire,117
+"sub (+abl with verbs of rest, +acc with verbs of motion) ","under, up under, close to, at the foot of",7,Preposition,Place,118
+"nox, noctis (f)* ",night,26,Noun: 3rd Declension,Lengths of Time,119
+"populus, populi (m) ","people, the people, a nation",3,Noun: 2nd Declension,The City,122
+"caput, capitis (n) ",head; leader; beginning; life; heading; chapter,11,Noun: 3rd Declension,The Body,124
+"mare, maris (n)* ",sea,14,Noun: 3rd Declension,Earth and Water,125
+"quidam, quaedam, quiddam ","certain, some",26,Pronoun,Pronouns/Interrogatives,126
+"mater, matris (f) ",mother,12,Noun: 3rd Declension,The Household,127
+"quisquis, quidquid ","whoever, whatever",23,Pronoun,Pronouns/Interrogatives,129
+"capio, capere, cepi, captum ","to take, capture, seize, get",10,Verb: 3rd Conjugation -iō,War and Peace,131
+"duco, ducere,  duxi, ductum ","to lead, consider, regard; prolong",8,Verb: 3rd Conjugation -ō,Verbs of Compelling/Directing,133
+"nomen, nominis (n) ",name,7,Noun: 3rd Declension,Social Life,135
+"miser, misera, miserum ","sad, wretched, miserable, unfortunate",15,Adjective: 1st and 2nd Declension,Emotions,137
+"fortuna, fortunae (f) ","fortune, luck",2,Noun: 1st Declension,Religion,138
+"novus, nova, novum ",new; strange,7,Adjective: 1st and 2nd Declension,Time,139
+"gravis, grave ","heavy, weighty; serious, important; severe, grievous",19,Adjective: 3rd Declension,Measurement,140
+"longus, longa, longum ",long,16,Adjective: 1st and 2nd Declension,Measurement,142
+"parvus, parva, parvum ","small, little",4,Adjective: 1st and 2nd Declension,Measurement,143
+"relinquo, relinquere, reliqui, relictum ","to leave behind, leave, abandon, desert",21,Verb: 3rd Conjugation -ō,Motion,144
+"fio, fieri, factus sum ","to occur, happen; become; be made, be done",36,Verb: Irregular,Life and Being,146
+"os, oris (n) ","mouth, face",14,Noun: 3rd Declension,The Body,147
+"alter, altera, alterum ","the other (of two), second",9,Adjective: 1st and 2nd Declension,Measurement,148
+"ignis, ignis (m)* ",fire,22,Noun: 3rd Declension,Air and Fire,151
+"timeo, timēre, timui ","to be afraid, fear",15,Verb: 2nd Conjugation,Emotions,153
+"scelus, sceleris (n) ","crime, wickedness, evil deed",19,Noun: 3rd Declension,Justice,154
+"debeo, debēre, debui, debitum ","to owe; ought, must, should",1,Verb: 2nd Conjugation,Business/Money,155
+"vivo, vivere, vixi, victum ",to live,10,Verb: 3rd Conjugation -ō,Life and Being,156
+"fatum, fati (n) ",fate; death,29,Noun: 2nd Declension,Religion,157
+"voco, vocāre, vocavi, vocatum ","to call, summon",1,Verb: 1st Conjugation,Speech/Oratory,158
+"paro, parāre, paravi, paratum ","to  prepare, provide; get, obtain",19,Verb: 1st Conjugation,Making/Doing,160
+"miles,  militis (m) ",soldier,23,Noun: 3rd Declension,War and Peace,161
+"medius, media, medium ","middle, the middle of",22,Adjective: 1st and 2nd Declension,Place,162
+"audio, audire, audivi, auditum ","to hear, listen to",10,Verb: 4th Conjugation,Other Senses,165
+"puto, putāre, putavi, putatum ","to reckon, suppose, judge, think, imagine",25,Verb: 1st Conjugation,Education/Knowledge,166
+"annus, anni (m) ",year,12,Noun: 2nd Declension,Lengths of Time,167
+"sto, stare, steti, statum ","to stand, stand still, stand firm",13,Verb: 1st Conjugation,Life and Being,168
+"vox, vocis (f) ",voice,34,Noun: 3rd Declension,Speech/Oratory,169
+"genus, generis (n) ","origin; kind, type, sort, class",18,Noun: 3rd Declension,The Household,170
+"refero, referre,  rettuli,  relatum ","to carry back, bring back; repeat, answer, report",31,Verb: Irregular,Verbs of Transport,171
+"scio, scire, scivi, scitum ",to know,21,Verb: 4th Conjugation,Education/Knowledge,172
+"mens, mentis (f)* ","mind, thought, intention",16,Noun: 3rd Declension,The Body,173
+"licet, licere, licuit (impersonal) ","it is permitted, one may",37,Verb: Impersonal,Justice,175
+"solus, sola, solum ","alone, only (non solum . . . sed etiam ",9,Adjective: 1st and 2nd Declension,Measurement,176
+"fugio, fugere, fugi, fugiturum ","to flee, hurry away; escape; go into exile; avoid, shun",10,Verb: 3rd Conjugation -iō,Travel,177
+"ullus, ulla, ulllum ",any,9,Adjective: 1st and 2nd Declension,Pronouns/Interrogatives,178
+"nemo, nullius, nemini, neminem, nullo/nulla ","no one, nobody",11,Pronoun,Pronouns/Interrogatives,179
+"natura, naturae (f) ",nature,10,Noun: 1st Declension,Life and Being,180
+"mos, moris (m) ","habit,  custom, manner; (plural  = character, morals)",7,Noun: 3rd Declension,Social Life,181
+"beneficium, beneficii (n) ","benefit, kindness; favor",19,Noun: 2nd Declension,Social Life,182
+"pectus, pectoris (n) ","breast, heart",35,Noun: 3rd Declension,The Body,183
+"fides, fidei (f) ","faith, trust, trustworthiness, fidelity; promise, guarantee, protection",22,Noun: 5th Declension,Personality Traits/Characteristics,184
+"patior, pati, passus sum ","to suffer, endure; permit",34,Verb: Deponent,Verbs of Compelling/Directing,185
+"cura, curae (f) ","care, attention, caution, anxiety",4,Noun: 1st Declension,Love,186
+"ira, irae (f) ","ire, anger",2,Noun: 1st Declension,Emotions,187
+"verbum, verbi (n) ",word,5,Noun: 2nd Declension,Writing/Poetry,188
+"parens, parentis (m/f) ",parent,28,Noun: 3rd Declension,The Household,190
+"puer, pueri (m) ",boy,3,Noun: 2nd Declension,People,191
+"moveo, movēre, movi, motum ","to move; arouse, affect",18,Verb: 2nd Conjugation,Motion,192
+"dolor, doloris (m) ","pain, grief",38,Noun: 3rd Declension,Emotions,193
+"gens, gentis (f)* ","clan, race, nation, people",21,Noun: 3rd Declension,The Household,194
+"modus, modi (m) ","measure, bound, limit; manner, method, mode, way",22,Noun: 2nd Declension,Measurement,195
+"via, viae (f) ","road, way, street",10,Noun: 1st Declension,Travel,196
+"quisque, quidque ","each one,  each person, each thing",13,Pronoun,Pronouns/Interrogatives,197
+"amicus, amica, amicum ",friendly,11,Adjective: 1st and 2nd Declension,Personality Traits/Characteristics,198
+"pes, pedis (m) ","lower leg, foot",38,Noun: 3rd Declension,The Body,199
+"imperium, imperii (n) ","power to command, supreme power, authority, command, control, imperium",24,Noun: 2nd Declension,War and Peace,200
+"labor, laboris (m) ","work, work, toil; a work, production",7,Noun: 3rd Declension,Business/Money,201
+ingens (gen: ingentis) ,huge,16,Adjective: 3rd Declension,Measurement,202
+"talis, tale ","such, of such a sort",34,Adjective: 3rd Declension,Measurement,203
+apud (+acc) ,"among, in the presence of, at the house of",31,Preposition,Place,205
+"oculus, oculi (m) ",eye,4,Noun: 2nd Declension,The Body,206
+"vultus, vultus (m) ","countenance, face",40,Noun: 4th Declension,The Body,209
+"cado, cadere, cecidi, casurum ",to fall,12,Verb: 3rd Conjugation -ō,Violence,210
+"quis, quid [after: si, nisi, num, or ne] ","anyone, anything, someone, something",33,Pronoun,Pronouns/Interrogatives,212
+"traho, trahere, traxi, tractum ","to drag, draw; derive, acquire",8,Verb: 3rd Conjugation -ō,Verbs of Compelling/Directing,213
+"metus, metus (m) ",fear,20,Noun: 4th Declension,Emotions,215
+"consilium, consilii (n) ","plan, purpose, counsel, advice, judgement, wisdom",4,Noun: 2nd Declension,The City,217
+"amo, amāre, amavi, amatum ",to love,1,Verb: 1st Conjugation,Love,219
+"levis, leve ","light, trivial",17,Adjective: 3rd Declension,Measurement,220
+"poena, poenae (f) ","penalty, punishment",2,Noun: 1st Declension,Justice,223
+"frater, fratris (m) ",brother,8,Noun: 3rd Declension,The Household,225
+"malus, mala, malum ","bad, wicked, evil",4,Adjective: 1st and 2nd Declension,Personality Traits/Characteristics,227
+"iaceo, iacēre, iacui ",to lie; lie prostrate; lie dead,25,Verb: 2nd Conjugation,The House,228
+"liber, libera, liberum ",free,5,Adjective: 1st and 2nd Declension,Justice,229
+"liber, libri (m) ",book,6,Adjective: 1st and 2nd Declension,Justice,229
+"iter, itineris (n) ","journey; route, road",37,Noun: 3rd Declension,Travel,230
+"ferrum, ferri (n) ",iron; sword,22,Noun: 2nd Declension,Violence,231
+"spes, spei (f) ",hope,22,Noun: 5th Declension,Emotions,232
+"puella, puellae (f) ",girl,2,Noun: 1st Declension,People,233
+"finis, finis (m)* ","end, limit, boundary; purpose",21,Noun: 3rd Declension,Geography,236
+"gero, gerere, gessi, gestum ","to carry; carry on, manage, conduct, wage",8,Verb: 3rd Conjugation -ō,War and Peace,237
+ne,,5,Adverb,Pronouns/Interrogatives,238
+"dux, ducis (m) ","leader; guide; commander, general",23,Noun: 3rd Declension,War and Peace,239
+"premo, premere, pressi, pressum ","to press; press hard, pursue",23,Verb: 3rd Conjugation -ō,War and Peace,240
+"dominus, domini (n) ",master,40,Noun: 2nd Declension,The Household,241
+"mons, montis (m)* ",mountain,20,Noun: 3rd Declension,Geography,242
+"litus, litoris (n) ","shore, coast",23,Noun: 3rd Declension,Geography,245
+"soleo, solēre, solitus sum ",to be accustomed,37,Verb: 2nd Conjugation,Personality Traits/Characteristics,246
+"equus, equi (m) ",horse,23,Noun: 2nd Declension,Animals/Plants,248
+"durus, dura, durum ","hard, harsh, rough, stern, unfeeling, hardy, difficult",29,Adjective: 1st and 2nd Declension,Other Senses,249
+"cogo, cogere, coegi, coactum (cum + ago) ","to drive/bring together, force, compel",36,Verb: 3rd Conjugation -ō,Verbs of Compelling/Directing,250
+"morior, mori, mortuus sum ",to die,34,Verb: Deponent,Life and Being,253
+"carmen, carminis (n) ","song, poem",7,Noun: 3rd Declension,Writing/Poetry,254
+"ratio, rationis (f) ","reckoning, account; reason, judgement, consideration; system; manner, method",8,Noun: 3rd Declension,Education/Knowledge,256
+"ars, artis (f)* ","art, skill",14,Noun: 3rd Declension,Education/Knowledge,258
+"dexter, dextra, dextrum ","right, right",20,Adjective: 1st and 2nd Declension,Place,260
+"signum, signi (n) ","sign, signal, indication; seal",13,Noun: 2nd Declension,War and Peace,261
+"lex, legis (f) ","law, statute",26,Noun: 3rd Declension,Justice,264
+"periculum, periculi (n) ","danger, risk",4,Noun: 2nd Declension,Violence,265
+"nascor, nasci, natus sum ",to be born; spring forth arise,34,Verb: Deponent,Life and Being,266
+"exercitus, exercitus (m) ",army,32,Noun: 4th Declension,War and Peace,267
+"ventus, venti (m) ",wind,39,Noun: 2nd Declension,Air and Fire,269
+"audeo, audēre, ausus sum ",to dare,7,Verb: 2nd Conjugation,Personality Traits/Characteristics,270
+"aqua, aquae (f) ",water,14,Noun: 1st Declension,Earth and Water,272
+"rapio, rapere, rapui, raptum ","to seize, snatch, carry away",21,Verb: 3rd Conjugation -iō,Violence,273
+"tristis, triste  ","sad, sorrowful; joyless, grim, severe",26,Adjective: 3rd Declension,Emotions,275
+"fama, famae (f) ","rumor, report; fame",2,Noun: 1st Declension,Speech/Oratory,278
+par (gen: paris) (+dat) ,"equal (to), like",32,Adjective: 3rd Declension,Measurement,281
+"vester, vestra, vestrum ",your (plural),6,Adjective: 1st and 2nd Declension,Pronouns/Interrogatives,282
+"flumen, fluminis (n) ",river,18,Noun: 3rd Declension,Earth and Water,283
+"certus, certa, certum ","definite, sure, certain, reliable",19,Adjective: 1st and 2nd Declension,Measurement,285
+"fortis, forte ","brave, strong",16,Adjective: 3rd Declension,Personality Traits/Characteristics,286
+"placeo, placēre, placui, placitum (+dat) ","to be pleasing to, please",35,Verb: 2nd Conjugation,Social Life,287
+"verto, vertere, verti, versum ",to turn; change,23,Verb: 3rd Conjugation -ō,Motion,288
+"servo, servāre, servavi, servatum ","to save, preserve, keep, guard, protect",1,Verb: 1st Conjugation,The Household,289
+"honor, honoris (m) ","honor, esteem; public office",30,Noun: 3rd Declension,The City,290
+"dignus, digna, dignum ","(+abl.) worthy, worthy of",29,Adjective: 1st and 2nd Declension,Personality Traits/Characteristics,291
+"tollo, tollere, sustuli, sublatum ","to raise up, lift up; take away, remove, destroy",22,Verb: Irregular,Violence,293
+"nego, negāre, negavi, negatum ","to deny, to say that . . . not",25,Verb: 1st Conjugation,Speech/Oratory,294
+vetus (gen: veteris) ,old,39,Adjective: 3rd Declension,Time,295
+"trado, tradere, tradidi, traditum ","to give over, surrender; hand down, transmit, teach (trans + do)",33,Verb: 3rd Conjugation -ō,Business/Money,297
+"lux, lucis (f) ",light,26,Noun: 3rd Declension,Air and Fire,299
+"sentio, sentire, sensi, sensum ","to  feel, perceive, think, experience",11,Verb: 4th Conjugation,Other Senses,302
+"cedo, cedere, cessi, cessum ","to go, withdraw; yield to, grant, submit",28,Verb: 3rd Conjugation -ō,War and Peace,304
+"saxum, saxi (n) ",rock,40,Noun: 2nd Declension,Earth and Water,306
+-ve,or (suffix),33,Conjunction,Conjunctions/Adverbs,307
+"aetas, aetatis (f) ","period of life, life, age, an age, time",16,Noun: 3rd Declension,Lengths of Time,308
+felix (gen: felicis) ,"lucky, fortunate, happy",22,Adjective: 3rd Declension,Personality Traits/Characteristics,309
+"loquor, loqui, locutus sum ","to speak, say, tell",34,Verb: Deponent,Speech/Oratory,310
+"quantus, quanta, quantum ","how large, how great, how much",30,Pronoun,Pronouns/Interrogatives,311
+"coepi, coepisse, coeptum ",began,17,Verb: Irregular,Time,312
+"ius, iuris (n) ","right, justice, law",14,Noun: 3rd Declension,Justice,314
+"muto, mutāre, mutavi, mutatum","to change,  alter; exchange",14,Verb: 1st Conjugation,Making/Doing,315
+"invenio, invenire, inveni, inventum ","to find, come upon, discover",10,Verb: 4th Conjugation,Travel,316
+princeps (gen: principis) ,"chief, foremost",28,Adjective: 3rd Declension,The City,317
+"ops, opis (f) ","help, aid",33,Noun: 3rd Declension,Business/Money,318
+"recipio, recipere, recepi, receptum ","to take back, regain; admit, receive",24,Verb: 3rd Conjugation -iō,Verbs of Transport,319
+"sol, solis (m) ",sun,27,Noun: 3rd Declension,Air and Fire,320
+"consul, consulis (m) ",consul,11,Noun: 3rd Declension,The City,321
+"turba, turbae (f) ","uproar, disturbance; mob, crowd, multitude",14,Noun: 1st Declension,The City,323
+"ager, agri (m) ","field, farm",3,Noun: 2nd Declension,Animals/Plants,324
+"vitium, vitii (n) ","fault, crime, vice",6,Noun: 2nd Declension,Justice,326
+"vulnus, vulneris (n) ",wound,24,Noun: 3rd Declension,Violence,327
+"senatus, senatus (m) ",senate,20,Noun: 4th Declension,The City,329
+"utor, uti, usus sum (+abl) ","to use; enjoy, experience",34,Verb: Deponent,Making/Doing,330
+"copia, copiae (f) ","supply, abundance (plural = supplies, troops, forces)",8,Noun: 1st Declension,War and Peace,331
+"opus, operis (n) ","work, task; deed, accomplishment",38,Noun: 3rd Declension,Business/Money,332
+"numerus, numeri (m) ",number,3,Noun: 2nd Declension,Measurement,338
+"cognosco, cognoscere, cognovi, cognitum ","to become acquainted with, learn, recognize",30,Verb: 3rd Conjugation -ō,Education/Knowledge,339
+"patria, patriae (f) ","fatherland, native land, homeland",2,Noun: 1st Declension,Geography,342
+"civitas, civitatis (f) ","state, citizenship",7,Noun: 3rd Declension,The City,346
+"eripio, eripere,  eripui, ereptum ","to snatch away, take away, rescue",22,Verb: 3rd Conjugation -iō,Verbs of Transport,349
+"mundus, mundi (m) ","world, universe",21,Noun: 2nd Declension,Earth and Water,350
+"cursus, cursus (m) ","running, race; course",28,Noun: 4th Declension,Athletics,351
+"navis, navis (f)* ","ship, boat",21,Noun: 3rd Declension,Travel,353
+"lacrima, lacrimae (f) ",tear,40,Noun: 1st Declension,Emotions,354
+"humanus, humana, humanum ","pertaining to man, human; humane, kind, refined, cultivated",4,Adjective: 1st and 2nd Declension,People,355
+"sidus, sideris (n) ","constellation, star",29,Noun: 3rd Declension,Air and Fire,359
+"gloria, gloriae (f) ",glory,5,Noun: 1st Declension,Social Life,360
+"auris, auris (f)* ",ear,14,Noun: 3rd Declension,The Body,366
+"taceo, tacēre, tacui, tacitum ","to be silent, leave unmentioned",28,Verb: 2nd Conjugation,Other Senses,369
+"ostendo, ostendere, ostendi, ostentum ","to exhibit, show, display",23,Verb: 3rd Conjugation -ō,Other Senses,371
+"turpis, turpe ","ugly; shameful, base, disgraceful",26,Adjective: 3rd Declension,Other Senses,377
+"voluptas, voluptatis (f) ",pleasure,10,Noun: 3rd Declension,Social Life,378
+"iniuria, inuriae (f) ","injury, injustice, wrong",39,Noun: 1st Declension,Justice,381
+"dulcis, dulce ","sweet, pleasant, agreeable",16,Adjective: 3rd Declension,Other Senses,383
+"ingenium, ingenii (n)  ","nature, innate talent",29,Noun: 2nd Declension,Education/Knowledge,387
+"pax, pacis (f) ",peace,7,Noun: 3rd Declension,War and Peace,388
+"iuvo, iuvāre, iuvi, iutum ",to help,4,Verb: 1st Conjugation,Social Life,390
+"doceo, docēre, docui, doctum ",to teach,8,Verb: 2nd Conjugation,Education/Knowledge,393
+"excipio, excipere, excepi, exceptum ","to take out, except; take, receive, capture",24,Verb: 3rd Conjugation -iō,Verbs of Transport,394
+"clarus, clara, clarum ","clear, bright, famous, renowned, illustrious",18,Adjective: 1st and 2nd Declension,Personality Traits/Characteristics,395
+"mora, morae (f) ",delay,4,Noun: 1st Declension,Time,399
+"erro, errāre, erravi, erratum ","to err, go astray, make a mistake, be mistaken; wander",1,Verb: 1st Conjugation,Travel,402
+"gaudeo, gaudēre, gavisus sum ","to rejoice, be glad",23,Verb: 2nd Conjugation,Emotions,407
+"beatus, beata, beatum ","happy, fortunate, blessed",10,Adjective: 1st and 2nd Declension,Personality Traits/Characteristics,408
+"verus, vera, verum ","true, real, proper",4,Adjective: 1st and 2nd Declension,Speech/Oratory,410
+"incipio, incipere, incepi, inceptum ",to begin,17,Verb: 3rd Conjugation -iō,Time,411
+"parco, parcere, peperci, parsurum (+dat) ",to be lenient to; spare,35,Verb: 3rd Conjugation -ō,War and Peace,412
+"similis, simile ","(+ gen. or dat.) similar (to), like, resembling",27,Adjective: 3rd Declension,Personality Traits/Characteristics,414
+"virgo, virginis (f) ","maiden, virgin, young woman",7,Noun: 3rd Declension,People,418
+"lego, legere, legi, lectum ","to read; pick out, choose, select",18,Verb: 3rd Conjugation -ō,Writing/Poetry,419
+"forma, formae (f) ","form, shape; beauty",2,Noun: 1st Declension,Other Senses,422
+"praesto, praestāre,  praestiti, praestitum ","to excel; exhibit, show,  offer, supply, furnish",28,Verb: 1st Conjugation,Other Senses,423
+"misceo, miscēre, miscui, mixtum ","to mix, stir up, disturb",18,Verb: 2nd Conjugation,Earth and Water,425
+"transeo, transire, transii, transitum ","to go across, cross; pass over, ignore",39,Verb: Irregular,Travel,431
+"ultimus, -a, -um","farthest, extreme; last, final",25,Adjective: 1st and 2nd Declension,Geography,432
+"gratus, grata, gratum ","grateful; pleasing, agreeable",37,Adjective: 1st and 2nd Declension,Personality Traits/Characteristics,434
+"laudo, laudāre, laudavi, laudatum ",to praise,1,Verb: 1st Conjugation,Social Life,435
+"somnus, somni (m) ",sleep,26,Noun: 2nd Declension,Life and Being,438
+"cupio, cupere, cupivi, cupitum ","to desire, wish, long for",17,Verb: 3rd Conjugation -iō,Love,441
+"exspecto, expsectāre, exspectavi, exspectatum ","to look for, expect, await",15,Verb: 1st Conjugation,Vision,442
+"laus, laudis (f) ",praise,8,Noun: 3rd Declension,Social Life,444
+"studium, studii (n) ","zeal, eagerness, pursuit, study",9,Noun: 2nd Declension,Emotions,450
+"facilis, facile ","easy, agreeable",16,Adjective: 3rd Declension,Personality Traits/Characteristics,451
+sapiens (gen: sapientis) ,"wise, judicious",25,Adjective: 3rd Declension,Education/Knowledge,453
+"nolo, nolle, nolui ","to not . . . wish, be unwilling",32,Verb: Irregular,Emotions,458
+"plenus, plena, plenum ","full, abundant, generous",6,Adjective: 1st and 2nd Declension,Measurement,459
+"adversus, adversa, adversum ","opposite, adverse",34,Adverb,War and Peace,460
+"carus, cara, carum ",dear,11,Adjective: 1st and 2nd Declension,Personality Traits/Characteristics,462
+"disco, discere, didici ",to learn,8,Verb: 3rd Conjugation -ō,Education/Knowledge,465
+"arbor, arboris (f) ",tree,38,Noun: 3rd Declension,Animals/Plants,468
+"eo, ire, ii, itum ","to go (also: abeo, adeo, exeo, ineo, obeo, pereo, redeo)",37,Adverb,Place,470
+"civis, civis (m/f)* ",citizen,14,Noun: 3rd Declension,The City,471
+"specto, spectāre, spectavi, spectatum ","to look at, watch, see",34,Verb: 1st Conjugation,Vision,473
+"donum, doni (n) ","gift, present",4,Noun: 2nd Declension,Social Life,476
+"amitto, amittere, amisi, amissum ","to lose, let go",12,Verb: 3rd Conjugation -ō,Verbs of Compelling/Directing,486
+"anima, animae (f) ","soul, spirit",34,Noun: 1st Declension,Life and Being,493
+"libertas, libertatis (f) ","freedom, liberty",8,Noun: 3rd Declension,The City,495
+"servus, servi (m) or serva, servae (f) ",slave,24,Noun: 2nd Declension,The Household,496
+"soror, sororis (f) ",sister,8,Noun: 3rd Declension,The Household,497
+"exigo, exigere, exegi, exactum (ex + ago) ","to drive  out, force  out, exact; drive through, complete, perfect",36,Verb: 3rd Conjugation -ō,Verbs of Compelling/Directing,500
+"femina, feminae (f) ",woman,3,Noun: 1st Declension,People,501
+"miror, mirāri, miratus sum ","to marvel at, admire, wonder",35,Verb: Deponent,Emotions,504
+"sedeo, sedēre, sedi, sessum ",to sit,34,Verb: 2nd Conjugation,The House,506
+"noceo, nocēre, nocui, nocitum (+dat) ","to do harm to, harm, injure",35,Verb: 2nd Conjugation,Violence,509
+"intellego, intellegere, intellexi, intellectum ",to understand,11,Verb: 3rd Conjugation -ō,Education/Knowledge,512
+"iungo, iungere, iunxi, iunctum ",to join,13,Verb: 3rd Conjugation -ō,Making/Doing,513
+"cogito, cogitāre, cogitavi, cogitatum ","to think, ponder, consider, plan",1,Verb: 1st Conjugation,Education/Knowledge,515
+"limen, liminis (n) ",threshold,26,Noun: 3rd Declension,The House,516
+"dubito, dubitāre, dubitavi, dubitatum ","to doubt, hesitate",30,Verb: 1st Conjugation,Education/Knowledge,521
+"odium, odii (n) ",hatred,38,Noun: 2nd Declension,Emotions,522
+"nescio, nescire, nescivi, nescitum ","not to know, to be ignorant",25,Verb: 4th Conjugation,Education/Knowledge,525
+"pecunia, pecuniae (f) ",money,2,Noun: 1st Declension,Business/Money,530
+"tango, tangere, tetigi, tactum ",to touch,21,Verb: 3rd Conjugation -ō,Other Senses,534
+"respondeo, respondēre, respondi, responsum ",to answer,29,Verb: 2nd Conjugation,Speech/Oratory,535
+"timor, timoris (m) ",fear,10,Noun: 3rd Declension,Emotions,536
+"valeo, valēre, valui, valiturum ","to be strong, have power; be well",1,Verb: 2nd Conjugation,Social Life,539
+"condo, condere, condidi, conditum ","to put together/into, store; found, establish",29,Verb: 3rd Conjugation -ō,The City,540
+"auxilium, auxilii (n) ","help, aid",31,Noun: 2nd Declension,War and Peace,543
+"auctor, auctoris (m) ","increaser, author, originator",19,Noun: 3rd Declension,Writing/Poetry,546
+"animal, animalis (n)* ","animal, living creature",14,Noun: 3rd Declension,Animals/Plants,547
+"salus, salutis (f) ","health, safety; greeting",21,Noun: 3rd Declension,Life and Being,549
+"pateo, patēre, patui ","to be open, lie open; be accessible; be evident",32,Verb: 2nd Conjugation,Geography,550
+"rogo, rogāre, rogavi, rogatum ",to ask,30,Verb: 1st Conjugation,Speech/Oratory,551
+"uxor, uxoris (f) ",wife,7,Noun: 3rd Declension,The Household,552
+"rego, regere, rexi, rectum ","to rule, guide, direct",16,Verb: 3rd Conjugation -ō,The City,554
+senex (gen: senis) ,"old, aged",16,Noun: 3rd Declension,People,558
+"curro, currere, cucurri, cursum ","to run, rush, move quickly",14,Verb: 3rd Conjugation -ō,Athletics,562
+"pello, pellere, pepuli, pulsum ","to strike, push; drive out, banish",24,Verb: 3rd Conjugation -ō,Violence,563
+potens (gen: potentis) ,powerful,16,Adjective: 3rd Declension,Personality Traits/Characteristics,567
+"scribo, scribere, scripsi, scriptum ","to write, compose",8,Verb: 3rd Conjugation -ō,Writing/Poetry,568
+"pulcher, pulchra, pulchrum ",beautiful,5,Adjective: 1st and 2nd Declension,Vision,569
+"surgo, surgere, surrexi, surrectum ","to get up, arise",29,Verb: 3rd Conjugation -ō,Earth and Water,570
+"careo, carēre, carui, cariturum (+abl) ","to be without, to be deprived of, want, lack; be free from",20,Verb: 2nd Conjugation,Business/Money,572
+"praebeo, praebēre, praebui, praebitum ","to offer, provide",32,Verb: 2nd Conjugation,Verbs of Transport,584
+"sententia, sententiae (f) ","feeling, though, opinion, vote, sentence",2,Noun: 1st Declension,Education/Knowledge,586
+"acer, acris, acre ","sharp, keep, eager; severe, fierce",16,Adjective: 3rd Declension,Other Senses,587
+"brevis, breve ","short, small, brief",16,Adjective: 3rd Declension,Measurement,589
+"cornu, cornus (n) ",horn,20,Noun: 4th Declension,Animals/Plants,591
+"moenia, moenium (n) ",city walls,29,Noun: 3rd Declension,The City,593
+"vinculum, vinculi (n) ","chain, bond, fetter",36,Noun: 2nd Declension,War and Peace,594
+"malo, malle, malui ","to want (something) more, instead; prefer",32,Verb: Irregular,Emotions,598
+"impero, imperāre, imperavi, imperatum (+dat) ","to give orders to, command",35,Verb: 1st Conjugation,War and Peace,602
+"prohibeo, prohibēre, prohibui, prohibitum ","to keep (back), prevent, hinder, restrain",20,Verb: 2nd Conjugation,Verbs of Compelling/Directing,604
+"officium, officii (n) ","duty, service",4,Noun: 2nd Declension,The City,607
+"committo, committere, comisi, comissum ","to entrust, commit",15,Verb: 3rd Conjugation -ō,Social Life,608
+"cresco, crescere, crevi, cretum ",to increase,34,Verb: 3rd Conjugation -ō,Animals/Plants,609
+"aequus, aequa, aequum ","level, even; calm, equal, just; favorable",22,Adjective: 1st and 2nd Declension,Justice,610
+"factum, facti (n) ","deed, act, achievement",13,Noun: 2nd Declension,Making/Doing,611
+"accedo, accedere, accessi, accessum ","to come (to), approach",36,Verb: 3rd Conjugation -ō,Motion,614
+"contemno, contemnere, contempsi, contemptum ","to despise, scorn",36,Verb: 3rd Conjugation -ō,Emotions,615
+"antiquus, antiqua, antiquum ","ancient, old",2,Adjective: 1st and 2nd Declension,Lengths of Time,617
+"memoria, memoriae (f) ","memory, recollection",15,Noun: 1st Declension,Education/Knowledge,627
+"arx, arcis (f)* ","citadel, stronghold",23,Noun: 3rd Declension,The City,638
+"vinum, vini (n) ",wine,31,Noun: 2nd Declension,Animals/Plants,640
+"confero, conferre, contuli, collatum ","to bring together, compare; confer, bestow",31,Verb: Irregular,Verbs of Transport,645
+"spero, sperāre, speravi, speratum ","to hope for, hope",25,Verb: 1st Conjugation,Emotions,648
+"plebs, plebis (f) ","the common people, populace, plebeians",33,Noun: 3rd Declension,The City,649
+"defendo, defendere,  defendi, defensum ","to ward off; defend, protect",20,Verb: 3rd Conjugation -ō,War and Peace,653
+"cerno, cernere, crevi, cretum ","to distinguish, discern, perceive",22,Verb: 3rd Conjugation -ō,Education/Knowledge,655
+"superbus, superba, superbum ","arrogant, overbearing, haughty, proud",26,Adjective: 1st and 2nd Declension,Personality Traits/Characteristics,656
+"adversus, adversa, adversum ","opposite, adverse",34,Adjective: 1st and 2nd Declension,War and Peace,657
+"morbus, morbi (m) ","disease, sickness",9,Noun: 2nd Declension,The Body,658
+"communis, commune ","common, general, of/for the community",20,Adjective: 3rd Declension,The City,660
+"hora, horae (f) ","hour, time",10,Noun: 1st Declension,Lengths of Time,664
+"supero, superāre, superavi, superatum ","to be above, have the upper hand, surpass; overcome, conquer",5,Verb: 1st Conjugation,War and Peace,668
+"vulgus, vulgi (n) ","the common people, mob, rabble",21,Noun: 2nd Declension,The City,675
+"praemium, praemii (n) ","reward, prize",35,Noun: 2nd Declension,Business/Money,680
+"fateor, fatēri, fassus sum ","to confess, admit",34,Verb: Deponent,Justice,689
+"amicitia, amicitiae (f) ",friendship,10,Noun: 1st Declension,Social Life,690
+"os, oris (n) ","mouth, face",14,Noun: 3rd Declension,The Body,696
+"interficio, interficere, interfeci, interfectum ","to kill, murder",37,Verb: 3rd Conjugation -iō,Violence,699
+"appello, appellāre, appellavi, appellatum","to speak to, address (as), call, name",14,Verb: 1st Conjugation,Social Life,700
+"spiritus, spiritus (m) ","breath, breathing; spirit, soul",20,Noun: 4th Declension,Life and Being,703
+"terreo, terrēre, terrui, territum ","to frighten, terrify",1,Verb: 2nd Conjugation,Emotions,705
+"invidia, invidiae (f) ",jealousy,31,Noun: 1st Declension,Emotions,707
+"pugno, pugnāre, pugnavi, pugnatum ",to fight,29,Verb: 1st Conjugation,Violence,708
+"littera, litterae (f) ","a letter of the alphabet; (plural = letter, literature)",7,Noun: 1st Declension,Writing/Poetry,710
+"moneo, monēre, monui, monitum ","to warn, remind, advise",1,Verb: 2nd Conjugation,Speech/Oratory,711
+"divitiae, divitiarum (f) ","riches, wealth",13,Noun: 1st Declension,Business/Money,712
+"experior, experiri, expertus sum ","to try, test; experience",39,Verb: Deponent,Education/Knowledge,713
+"otium, otii (n) ","leisure, peace",4,Noun: 2nd Declension,Social Life,715
+"promitto, promittere, promisi, promissum ",to send forth; promise,32,Verb: 3rd Conjugation -ō,Verbs of Compelling/Directing,720
+"imperator, imperatoris (m) ","general, commander-in-chief, emperor",24,Noun: 3rd Declension,War and Peace,723
+"discedo, discedere, discessi, discessum ","to go away, depart",20,Verb: 3rd Conjugation -ō,Travel,726
+"caecus, -a, -um", blind,17,Adjective: 1st and 2nd Declension,Vision,728
+"lingua, linguae (f) ",language; tongue,25,Noun: 1st Declension,The Body,732
+"for, fāri, fatus sum ","to speak (prophetically), talk, foretell",40,Verb: Deponent,Speech/Oratory,739
+"humus, humi (f) ","ground, earth; soil",37,Noun: 2nd Declension,Earth and Water,740
+"curo, curāre, curavi, curatum ","to care  for,  attend to; heal, cure",36,Verb: 1st Conjugation,Love,743
+"aes, aeris (n) ",bronze,40,Noun: 3rd Declension,Business/Money,744
+"celer, celeris, celere ","quick, swift, rapid",16,Adjective: 3rd Declension,Time,745
+"mensa, mensae (f) ",table,26,Noun: 1st Declension,The House,747
+"iudicium, iudicii (n) ","judgement, decision, opinion; trial",19,Noun: 2nd Declension,Justice,749
+"victoria, victoriae (f) ",victory,8,Noun: 1st Declension,War and Peace,750
+"tempestas, tempestatis (f) ","period of time, season; weather; storm",15,Noun: 3rd Declension,Lengths of Time,753
+"oro, orāre, oravi, oratum ","to speak, plead; beg, beseech, entreat, pray",36,Verb: 1st Conjugation,Religion,755
+"porta, portae (f) ","gate, entrance",2,Noun: 1st Declension,The City,759
+"reperio, reperire, repperi, repertum ","to find, discover, learn; get",40,Verb: 4th Conjugation,Education/Knowledge,765
+"culpa, culpae (f) ","blame, fault",5,Noun: 1st Declension,Justice,769
+"iustus, iusta, iustum ","just, right",40,Adjective: 1st and 2nd Declension,Justice,770
+"fluo, fluere, fluxi, fluxum ",to flow,18,Verb: 3rd Conjugation -ō,Earth and Water,772
+"licet, licere, licuit (impersonal) ","it is permitted, one may",37,Conjunction,Justice,778
+"probo, probāre, probavi, probatum ","to approve, recommend; test",27,Verb: 1st Conjugation,Verbs of Compelling/Directing,784
+"doleo, dolēre, dolui, doliturum ","to grieve,  suffer, hurt, give pain",31,Verb: 2nd Conjugation,Emotions,785
+"odi, odisse, osum ",to hate,20,Verb: Irregular,Emotions,790
+"sensus, sensus (m) ","feeling,  sense",20,Noun: 4th Declension,Emotions,793
+"exsilium, exsilii (n) ","exile, banishment",31,Noun: 2nd Declension,Travel,794
+"sapientia, sapientiae (f) ",wisdom,3,Noun: 1st Declension,Education/Knowledge,797
+"decerno, decernere,decrevi, decretum ","to decide, settle, decree",36,Verb: 3rd Conjugation -ō,Education/Knowledge,800
+"occido, occidere, occidi, occasum ",to fall down; die; set,31,Verb: 3rd Conjugation -ō,Violence,801
+"contineo, continēre, continui, contentum ","to hold together, contain, keep, enclose",21,Verb: 2nd Conjugation,Verbs of Compelling/Directing,804
+"oportet, oportere, oportuit (impersonal) ","it is proper, right, necessary",39,Verb: Impersonal,Social Life,806
+"forum, fori (n) ","forum, marketplace",26,Noun: 2nd Declension,The City,811
+"offero, offere, obtuli, oblatum ",to offer,31,Verb: Irregular,Verbs of Transport,812
+"alo, alere, alui, altum ","to nourish, support, sustain, increase; cherish",13,Verb: 3rd Conjugation -ō,Life and Being,817
+"proficiscor, proficisci, profectus sum ","to set out, start",34,Verb: Deponent,Travel,835
+"secundus, secunda, secundum ",second; favorable,6,Adjective: 1st and 2nd Declension,Measurement,836
+"iudex, iudicis (m) ","judge, juror",19,Noun: 3rd Declension,Justice,839
+nimis or nimium ,"too, too much, excessively",9,Adverb,Personality Traits/Characteristics,841
+pauper (gen: pauperis) ,"of small means, poor",32,Adjective: 3rd Declension,Business/Money,844
+"pareo, parēre, parui (+dat) ","to be obedient to, obey",35,Verb: 2nd Conjugation,Verbs of Compelling/Directing,847
+"utilis, utile ","useful, advantageous",27,Adjective: 3rd Declension,Making/Doing,850
+"pauci, paucae, pauca ","few, a few",3,Adjective: 1st and 2nd Declension,Measurement,858
+"difficilis, difficile ","difficult, hard, troublesome",16,Adjective: 3rd Declension,Personality Traits/Characteristics,861
+"initium, initii (n) ","beginning, commencement",33,Noun: 2nd Declension,Time,865
+"consumo, consumere, consumpsi, consumptum ","to consume, use up",30,Verb: 3rd Conjugation -ō,Life and Being,869
+"rideo, ridēre, risi, risum ","to laugh, laugh at",24,Verb: 3rd Conjugation -ō,Emotions,874
+"rus, ruris (n) ","the country, countryside",37,Noun: 3rd Declension,Geography,879
+"vito, vitāre, vitavi, vitatum ","shun, avoid",14,Verb: 1st Conjugation,Social Life,881
+"servio, servire, servivi, servitum (+dat) ","to be a slave to, serve",35,Verb: 4th Conjugation,The Household,883
+"vereor, verēri, veritus sum ","to show reverence for, respect; be afraid of",40,Verb: Deponent,Emotions,884
+"hortor, hortāri, hortatus sum ","to encourage, urge",34,Verb: Deponent,Speech/Oratory,887
+"perpetuus, perpetua, perpetuum ","perpetual, lasting, uninterrupted, continuous",6,Adjective: 1st and 2nd Declension,Lengths of Time,891
+"desidero, desiderāre, desideravi, desideratum ","to desire, long for, miss",17,Verb: 1st Conjugation,Love,892
+"iacio, iacere, ieci, iactum ",to thow; hurl,15,Verb: 3rd Conjugation -iō,Athletics,899
+"laboro, laborāre, laboravi, laboratum ",to labor; be in distress,21,Verb: 1st Conjugation,Business/Money,900
+"liber, libera, liberum ",free,5,Noun: 2nd Declension,Writing/Poetry,901
+"liber, libri (m) ",book,6,Noun: 2nd Declension,Writing/Poetry,901
+"luna, lunae (f) ",moon,28,Noun: 1st Declension,Air and Fire,902
+"conor, conāri, conatus sum ","to try, attempt",34,Verb: Deponent,Making/Doing,905
+"cupido, cupidinis (f) ","desire, passion",36,Noun: 3rd Declension,Love,906
+"insula, insulae (f) ",island,23,Noun: 1st Declension,Geography,908
+"filia, filiae (f) ",daughter (filiabus: dat. and abl. pl.),3,Noun: 1st Declension,The Household,909
+"narro, narrāre, narravi, narratum ","to tell, report, narrate",24,Verb: 1st Conjugation,Speech/Oratory,910
+"egredior, egredi, egressus sum ",to go out,34,Verb: Deponent,Travel,912
+"poeta, poetae (m) ",poet,2,Noun: 1st Declension,Writing/Poetry,913
+"fructus, fructus (m) ","fruit; profit, benefit, enjoyment",20,Noun: 4th Declension,Animals/Plants,927
+"magister, magistri (m) or magistra, ",ae (f) ,4,Noun: 2nd Declension,Education/Knowledge,933
+"stella, stellae (f) ",star,28,Noun: 1st Declension,Air and Fire,934
+"educo, educāre, educavi, educatum ","to bring up, educate",23,Verb: 3rd Conjugation -ō,Verbs of Compelling/Directing,935
+"suscipio, suscipere, suscepi, susceptum ",to undertake,25,Verb: 3rd Conjugation -iō,Verbs of Transport,937
+"sacerdos, sacerdotis (m) ",priest,23,Noun: 3rd Declension,Religion,939
+"vicinus, vicini (m) ",neighbor,21,Adjective: 1st and 2nd Declension,Geography,940
+"familia, familiae (f) ","household, family",19,Noun: 1st Declension,The Household,943
+"sanus, sana, sanum ","sound, healthy, sane",5,Adjective: 1st and 2nd Declension,Life and Being,946
+"principium, principii (n) ",beginning,12,Noun: 2nd Declension,Time,948
+"mortalis, mortale ",mortal,18,Adjective: 3rd Declension,Life and Being,950
+"dignitas, dignitatis (f) ","merit, prestige, dignity",38,Noun: 3rd Declension,Personality Traits/Characteristics,956
+"mulier, mulieris (f) ",woman,39,Noun: 3rd Declension,People,961
+"arbitror, arbitrāri, arbitratus sum ","to judge, think",34,Verb: Deponent,Education/Knowledge,963
+"fabula, fabulae (f) ","story, tale; play",24,Noun: 1st Declension,Writing/Poetry,966
+"scientia, scientiae (f) ",knowledge,18,Noun: 1st Declension,Education/Knowledge,971
+"diligo, diligere, dilexi, dilectum ","to esteem, love",13,Verb: 3rd Conjugation -ō,Love,973
+"dormio, dormire, dormivi, dormitum ",to sleep,31,Verb: 4th Conjugation,Life and Being,975
+"creo, creāre, creavi, creatum ",to create,12,Verb: 1st Conjugation,Making/Doing,978
+"fidelis, fidele ","faithful, loyal",25,Adjective: 3rd Declension,Personality Traits/Characteristics,979
+"studeo, studēre, studui (+dat) ","to direct one’s zeal to, be eager for, study",35,Verb: 2nd Conjugation,Emotions,989
+"mundus, mundi (m) ","world, universe",21,Adjective: 1st and 2nd Declension,Personality Traits/Characteristics,997
+absens (gen: absentis) ,absent,37,,,
+"acerbus, acerba, acerbum ","harsh, bitter, grievous",12,,,
+"adfero, adferre, attuli, allatum ",to bring to,31,,,
+"admitto, admittere, admisi, admissum ","to admit, receive, let in",17,,,
+"adulescens, adulescentis (m/f) ",young man or woman,12,,,
+"adulescentia, adulescentiae (f) ","youth, young manhood; youthfulness",5,,,
+"aedificium, aedificii (n) ","building, structure",39,,,
+"aestas, aestatis (f) ",summer,35,,,
+"agricola, agricolae (m) ",farmer,3,,,
+"ait, aiunt ","he says, they say",25,,,
+"ambulo, ambulāre, ambulavi, ambulatum ",to walk,39,,,
+"amica, amicae  (f) and amicus, amici (m) ",friend,3,,,
+ante (+acc) ,"before, in front of",13,,,
+"antepono, anteponere, anteposui, antepositum ","to put before, prefer",35,,,
+"argumentum, argumenti (n) ","proof, evidence, argument",19,,,
+"as, assis (m) ",an as,31,,,
+"Asia, Asiae (f) ",Asia,12,,,
+"asper, aspera, asperum ","rough, harsh",21,,,
+at ,"but; but, mind you; but, you say (more  emotional than sed)",19,,,
+"Athenae, Athenarum (f) ",Athens,37,,,
+"auditor, auditoris (m) ","hearer, listener; member of an audience",16,,,
+aut ,or (aut . . . aut ,17,,,
+autem ,(post positive) however; moreover,11,,,
+"avarus, avara, avarum ","greedy, avaricious",3,,,
+"basium, basii (n) ",kiss,4,,,
+"bellus, bella, bellum ","pretty, handsome, charming",4,,,
+bene ,"well, satisfactorily, quite",11,,,
+"bibo, bibere,  bibi ",to drink,30,,,
+"Caesar, Caesaris (m) ",(Gaius Julius) Caesar,12,,,
+"candidatus, -a, -um","shining, bright, white; beautiful",33,,,
+"carpo, carpere, carpsi, carptum ","to harvest, pluck; seize",36,,,
+"Carthago, Carthaginis (f) ",Carthage,24,,,
+"casa, casae (f)  ","house, cottage, hut",21,,,
+"cena, cenae (f) ",dinner,26,,,
+"ceno, cenāre, cenavi, cenatum ",to dine,5,,,
+centum ,hundred,15,,,
+"ceteri, ceterae, cetera ","the remaining, the rest, the other, all the others",30,,,
+"Cicero, Ciceronis (m) ",(Marcus Tullius) Cicero,8,,,
+cito ,quickly,17,,,
+"clementia, clementiae (f) ","mercy, mildness, gentleness",16,,,
+"comprehendo, comprehendere, comprehendi, comprehensum ","to grasp, seize, arrest; comprehend, understand",30,,,
+"coniurati, coniuratorum (m) ",conspirators,20,,,
+"contendo, contendere, contendi, contentum ","to strive, struggle, contend; hasten",29,,,
+contra (+acc) ,against,19,,,
+"contundo, contundere, contudi, contusum ","to beat, crush, bruise, destroy",36,,,
+cotidie ,"daily, every day",36,,,
+cras ,tomorrow,5,,,
+"culpo, culpāre, culpavi, culpatum ","to blame, censure",5,,,
+cum (+abl) ,with,10,,,
+"cum (+subjunctive) when, since, although; (+indicative) when",,31,,,
+"cupiditas, cupiditatis (f) ","desire, longing, passion; avarice, cupidity",10,,,
+"cupidus, cupida, cupidum ","desirous, eager, fond; (often +gen.)",39,,,
+cur ,why,18,,,
+"custodia, custodiae (f) ","protection, custody (pl: guards)",32,,,
+de (+ablative) ,"down from, from; concerning, about",3,,,
+"dea, deae (f)  ",goddess,6,,,
+"dedico, dedicāre, dedicavi, dedicatum ",to dedicate,28,,,
+dehinc ,"then, next",25,,,
+deinde ,"then, next, thereupon",18,,,
+"delectatio, delectationis (f) ","delight, pleasure, enjoyment",27,,,
+"delecto, delectāre, delectavi, delectatum ","to  delight, charm, please",19,,,
+"deleo, delēre, delevi, deletum ","to destroy, wipe out, erase",17,,,
+"demonstro, demonstrāre, demonstravi, demonstratum ","to point out, show",8,,,
+denique ,"finally, at last, lastly",29,,,
+"digitus, digiti (m) ","finger, toe",31,,,
+diligens ,"diligent, careful",27,,,
+"discipula, discipulae (f)  and discipulus, discipuli (m)","learner, pupil, student",6,,,
+"dissimilis, dissimile ","unlike, different",27,,,
+diu ,for a long time,12,,,
+dives (gen: divitis or ditis) ,rich,32,,,
+"doctus, docta, doctum ","taught, learned, skilled",13,,,
+dum ,"while, as long as",8,,,
+dummodo (+subjunctive) ,"provided that, so long as",32,,,
+"egeo, egēre, egui ","(+ abl. or gen.) to need, lack, want",28,,,
+"elephantus, elephanti (m) ",elephant,31,,,
+enim ,"(post positive) for; in fact, truly",9,,,
+erga (+acc) ,toward,38,,,
+est ,is,2,,,
+et ,and (et . . . et ,2,,,
+etiam ,"even, also",11,,,
+etsi ,even if,38,,,
+ex (+abl) ,"out of, from, from within; by reason of, on account of",8,,,
+"exitium, exitii (n) ","destruction, ruin",4,,,
+"expello, expellere, expuli, expulsum ","to drive out, expel, banish",24,,,
+"expleo, explēre, explevi, expletum ","to fill, fill up, complete",28,,,
+"explico, explicāre, explicavi, explicatum ","to unfold; explain; spread out, deploy",40,,,
+"expono, exponere, exposui, expositum ","to set forth, explain, expose",30,,,
+"fatigo, fatigāre, fatigavi, fatigatum ","to weary, tire out",40,,,
+"fenestra, fenestrae (f) ",window,21,,,
+ferox ,"fierce, savage",25,,,
+"filius, filii (m) ",son,3,,,
+"firmus, firma, firmum ","firm, strong; reliable",38,,,
+foris ,"out of doors, outside",37,,,
+fortasse ,perhaps,36,,,
+"fortunatus, fortunata, fortunatum ","forunate, lucky, happy",13,,,
+"foveo, fovēre, fovi, fotum ","to comfort, nurture, cherish",35,,,
+furtim ,"stealthily, secretly",30,,,
+"geminus, -a, -um",twin,25,,,
+"genu, genus (n) ",knee,20,,,
+"gracilis, gracile ","slender, thin",27,,,
+"Graecia, Graeciae (f) ",Greece,19,,,
+"Graecus, Graeca, Graecum ",Greek,6,,,
+"hasta, hastae (f) ",spear,23,,,
+heri ,yesterday,5,,,
+heu ,ah! alas!,33,,,
+hīc ,here,25,,,
+hodie ,today,3,,,
+"humilis, humile ","humble, lowly",27,,,
+iam ,"now, already, soon",19,,,
+"ianua, ianuae (f) ",door,35,,,
+ibi ,there,6,,,
+"idoneus, idonea, idoneum ","suitable, fit, appropriate",37,,,
+igitur ,"(post positive) therefore, consequently",5,,,
+"ignosco, ignoscere, ignovi, ignotum (+dat) ","to  grant pardon to, forgive",35,,,
+"immortalis, immortale ","not subject to death, immortal",19,,,
+"immotus, immota, immotum ",unmoved; unchanged; unrelenting,37,,,
+in (+ablative) ,"in, on",3,,,
+in (+acc) ,"into, on to, toward; against",9,,,
+"incertus, incerta, incertum ","uncertain, unsure, doubtful",22,,,
+"infirmus, infirma, infirmum ","not strong, weak, feeble",38,,,
+inquit ,"he says, he said",22,,,
+"insidiae, insidiarum (f) ","ambush, plot, treachery",6,,,
+inter (+acc) ,"between, among",15,,,
+"invideo, invidēre, invidi, invisum ","to be envious (+dat), to look at with envy, to envy, be jealous of",31,,,
+"invito, invitāre, invitavi, invitatum ","to entertain, invite; summon",26,,,
+"iratus, irata, iratum ",angry,35,,,
+ita ,so thus,29,,,
+"Italia, Italiae (f) ",Italy,15,,,
+itaque ,"and so, therefore",15,,,
+iterum ,"again, a second time",21,,,
+"iucundus, iucunda, iucundum ","pleasant, delightful, agreeable, pleasing",16,,,
+"Latinus, Latina, Latinum ",Latin,22,,,
+"lector, lectoris (m) & lectrix lectricis (f) ",reader,36,,,
+"libellus, libelli (m) ",little book,17,,,
+libenter ,"with pleasure, gladly",38,,,
+"liberalis, liberale ","of, relating to a free person; worthy of a free man, decent, liberal; generous",39,,,
+"libero, liberāre, liberavi, liberatum ","to free, set free, liberate",19,,,
+"libo, libāre, libavi, libatum ",to pour a libation on; pour ritually; sip; touch gently,39,,,
+"ludus, ludi (m) ","game, sport; school",18,,,
+"magnanimus, magnanima, magnanimum ","great-hearted, brave, magnanimous",23,,,
+"maior, maius ",greater; older,27,,,
+me ,"me, myself (accusative case)",1,,,
+"medicus, medici (m) ","doctor, physician",12,,,
+"mediocris, mediocre ","ordinary, moderate, mediocre",31,,,
+"merus, -a, -um","pure, undiluted",33,,,
+"meta, metae (f) ","turning point, goal; limit, boundary",40,,,
+mille ,thousand,15,,,
+"minuo, minuere, minui, minutum ","to lessen, diminish",30,,,
+"mirabilis, mirabile ","amazing, wondrous",38,,,
+"molior, moliri, molitus sum ","to work at, build, undertake, plan",34,,,
+"mollio, mollire, mollivi, mollitum ","to soften; make calm, make less hostile",29,,,
+"monumentum, monumenti (n) ",monument,40,,,
+"mortuus, mortua, mortuum ",dead,28,,,
+mox ,soon,30,,,
+nam ,for,13,,,
+"nasus, nasi (m) ",nose,40,,,
+"nata, natae (f) ",daughter,29,,,
+"nauta, nautae (m) ",sailor,2,,,
+"navigo, navigāre, navigavi, navigatum ","to sail, navigate",17,,,
+ne ,"(+subjunct) not, in order that . . . not, that . . . not, in order not to",28,,,
+necesse ,"necessary, inevitable",39,,,
+"neco, necāre, necavi, necatum ","to kill, murder",7,,,
+"neglego, neglegere, neglexi, neglectum ","to neglect, disregard",17,,,
+"nepos, nepotis (m) ","grandson, descendant",27,,,
+"neuter, neutra neutrum ","neither, not either",9,,,
+nihil ,nothing,1,,,
+nihil ,nothing,4,,,
+nimium,"too, too much, excessively",9,,,
+nisi ,"if . . . not, unless",19,,,
+non ,not,1,,,
+nonne ,introduces question anticipating a “yes”,40,,,
+"nubes, nubis (f)* ",cloud,14,,,
+"nubo, nubere, nupsi, nuptum ","to cover, veil; (+dat) to be married to, marry",35,,,
+num ,1. introduces question anticipating a “no”. 2. introduces indirect questions and means “whether.”,40,,,
+numquam ,never,8,,,
+nunc ,now,6,,,
+"nuntio, nuntiāre, nuntiavi, nuntiatum ","to announce, report, relate",25,,,
+nuper ,recently,12,,,
+"oblecto, oblectāre, oblectavi, oblectatum ","to please, amuse, delight; pass time pleasantly",36,,,
+"occasio, occasionis (f) ","occasion, opportunity",28,,,
+olim ,"at that time, once, formerly; in the future",13,,,
+omnino ,"wholly, entirely, altogether",40,,,
+"opinor, opināri, opinatus sum ",to suppose,40,,,
+"opprimo, opprimere, oppressi, oppressum ","to suppress, overwhelm, overpower, check",23,,,
+"oppugno, oppugnāre, oppugnavi, oppugnatum ","to fight against, attack, assault, assail",39,,,
+"orator, oratoris (m) ",orator; speaker,23,,,
+"orno, ornāre, ornavi, ornatum ","to equip, furnish, adorn",39,,,
+"osculum, osculi (n) ",kiss,29,,,
+"patefacio, patefacere, patefeci, patefactum ","to make open, open; disclose, expose",25,,,
+"patientia, patientiae (f) ","suffering; patience, endurance",12,,,
+"paupertas, paupertatis (f) ",poverty,32,,,
+per (+acc) ,through,13,,,
+"peregrinor, peregrinari, peregrinatus sum ","to  travel abroad, wander",37,,,
+"perfugium, perfugii (n) ","refuge,  solace, shelter",24,,,
+"pernocto, pernoctāre,  pernoctavi, pernoctatum ",to spend the night,39,,,
+"persuadeo, persuadēre, persuasi, persuasum (+dat) ","to succeed in urging, persuade, convince",35,,,
+"philosophia, philosophiae (f) ",philosophy,2,,,
+"philosophus, philosophi (m) ",philosopher,33,,,
+post (+acc) ,"after, behind",7,,,
+postea ,afterwards,24,,,
+postremum ,"after all, finally; for the last time",40,,,
+prae (+abl) ,"in front of, before",26,,,
+praeter (+acc) ,"besides, except; beyond, past",40,,,
+primo ,"at first, at the beginning",30,,,
+"pristinus, pristina, pristinum ","ancient; former, previous",38,,,
+pro (+abl) ,"in front of, before, on behalf of, for the sake of, in return for, instead of, for, as",12,,,
+"probitas, probitatis (f) ","uprightness, honesty",18,,,
+"pronuntio, pronuntiāre, pronuntiavi, pronuntiatum ","to proclaim, announce, declaim; pronounce",20,,,
+propter (+accusative) ,"on account of, because of",5,,,
+protinus ,immediately,22,,,
+"pudicus, pudica, pudicum ","modest, chaste",26,,,
+quam ,how,16,,,
+quam ,than,26,,,
+quando ,when ,5,,,
+quare ,"because of which thing, therefore, wherefore, why",6,,,
+quasi ,"as if, as it were",39,,,
+que ,"and (suffix added to the end a word, joining it to the previous)",6,,,
+qui? quae? quod? ,(interrogative adj) ,19,,,
+quid ,what,1,,,
+quidem ,"indeed, certainly, at least, even",29,,,
+quin ,"indeed, in fact",40,,,
+quis? quid? ,(interrogative pronoun) who? whose? whom? what? which?,19,,,
+quod ,because,11,,,
+quondam ,"formerly, once",22,,,
+quoniam ,"since, inasmuch as",10,,,
+quoque ,"also, too",17,,,
+quot ,"how many, as many as",27,,,
+"recito, recitāre, recitavi, recitatum ","to read aloud, recite",17,,,
+"recreo, recreāre, recreavi, recreatum ","to  restore, revive; refresh, cheer",36,,,
+"recuso, recusāre, recusavi, recusatum ",to refuse,33,,,
+"regina, reginae (f) ",queen,7,,,
+"remaneo, remanēre, remansi, remansum (or maneo) ","to remain, stay; stay behind, abide, continue",5,,,
+"remedium, remedii (n) ","cure, remedy",4,,,
+"remissio, remissionis (f) ","letting go, release; relaxation",34,,,
+repente ,suddenly,30,,,
+"requiesco, requiescere, requievi, requietum ",to rest,37,,,
+"requiro, requirere, requisivi, requisitum ","to seek, ask for; miss, need, require",36,,,
+"res publica, rei publicae (f) state,  commonwealth, republic",,22,,,
+"ridiculus, ridicula, ridiculum ","laughable, ridiculous",30,,,
+"Roma, Romae (f) ",Rome,14,,,
+"Romanus, Romana, Romanum ",Roman,3,,,
+"rosa, rosae (f) ",rose,2,,,
+"rumor, rumoris (m) ","rumor, gossip",31,,,
+"rusticor, rusticāri, rusticatus sum ",to live in the country,34,,,
+saepe ,often,1,,,
+"sal, salis (m) ",salt; wit,33,,,
+"salveo, salvēre ","to be well, be in good health",1,,,
+"salvus, salva, salvum ","safe, sound",6,,,
+"sapio, sapere, sapivi ","to have good taste; have good sense, be wise",35,,,
+"satio, satiāre, satiavi, satiatum ","to satisfy, sate",3,,,
+satis ,"enough, sufficient",5,,,
+"sator, satoris (m) ","sower, planter; begetter, father; founder",38,,,
+"satura, saturae (f) ",satire,16,,,
+"sauvis, suave ",sweet,33,,,
+"scriptor, scriptoris (m) ","writer, author",8,,,
+sed ,but,2,,,
+semel ,"a single time, once, once and for all, simultaneously ",31,,,
+semper ,always,3,,,
+"senectus, senectutis (f) ",old age,10,,,
+"sereno, serenāre, serenavi, serenatum ","to  make clear, brighten; cheer up, soothe",36,,,
+"servitus, servitutis (f) ","slavery, servitude",20,,,
+si ,if,1,,,
+sic ,so thus,29,,,
+sine (+ablative) ,without,2,,,
+"sinister, sinistra, sinistrum ","left, left",20,,,
+"solacium, solacii (n) ","comfort, relief",24,,,
+"speculum, speculi (n) ",mirror,33,,,
+"stultus, stulta, stultum ",foolish,4,,,
+subito ,suddenly,33,,,
+"sublimis, sublime ","elevated, lofty; heroic, noble",38,,,
+"subrideo, subridēre, subrisi, subrisum ",to smile (down) upon,35,,,
+sui ,"(reflexive pronoun) him/her/itself, themselves",13,,,
+"Syracusae, Syracusarum (f) ",Syracuse,37,,,
+tam ,"so, to such a degree (tam . . quam ",29,,,
+tamen ,"nevertheless, still",8,,,
+tantum ,only,26,,,
+te ,you (accusative),5,,,
+"tolero, tolerāre, toleravi, toleratum ","to bear, endure",6,,,
+tot ,so many,40,,,
+trans (+acc) ,across,14,,,
+"transitus, transitus (m) ","passing over, transit; transition",39,,,
+"Troia, Troiae (f) ",Troy,21,,,
+tum ,"then, at that time; thereupon, in the next place",5,,,
+"tyrannus, tyranni (m) ","absolute ruler, tyrant",6,,,
+ubi ,"where, when",6,,,
+ultra (+acc) ,"beyond, on the other side of",22,,,
+umquam ,"ever, at any time",23,,,
+unde ,"whence, from what/which place, from which, from whom",30,,,
+"urbanus, urbana, urbanum ","of the city, urban; urbane, elegant",26,,,
+usque ,"all the way up (to), even (to), continuously, always",31,,,
+ut ,"(+indic) as, just as, when",24,,,
+ut ,"(+indic) as, when; (+subjunct) in order that, so that, that, in order to, so as to, to",28,,,
+"uter, utra, utrum ","either, which (of two)",9,,,
+utrum . . . an ,whether . . . or,30,,,
+vae (often +dat) ,"alas, woe to",34,,,
+"veritas, veritatis (f) ",truth,10,,,
+vero ,"in truth, indeed, to be sure, however",29,,,
+"versus, versus (m) ","line of verse, verse",20,,,
+"vesper, vesperis/vesperi (m) ",evening; evening star,28,,,
+"videor, vidēri, visus sum ","to be seen; seem, appear",18,,,
+"vivus, viva, vivum ","living, alive",30,,,
